@@ -104,7 +104,7 @@ public class MainPage extends javax.swing.JFrame {
     }//GEN-LAST:event_newMemberButtonActionPerformed
 
     private void employeeButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_employeeButtonActionPerformed
-        setVisible(false);
+        setVisible(true);
         new LoginPage_Employee().setVisible(true);
     }//GEN-LAST:event_employeeButtonActionPerformed
 
